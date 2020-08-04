@@ -5,7 +5,7 @@
 <p>
 🇧🇷 Living in Belo Horizonte, Brazil <br>
 
-- 🔭 I’m currently working on PucMinas, as monitor of the course Algorithm and Data Structure I. <br>
+- 🔭 I’m currently working on PucMinas, as class monitor of the course Algorithm and Data Structure I. <br>
 - 🌱 I’m currently learning C, C++, Java, JS, HTML, CSS and SQL. <br>
 - 🤔 I’m looking for help with JavaScript. <br>
 </p>
