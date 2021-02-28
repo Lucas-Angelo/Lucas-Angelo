@@ -10,7 +10,7 @@
 
 <h3 align="left">Hey, contact me!</h3>
 <p align="center">
-  <a href="https://lucasangelo.com/links/" target="_blank"><img align="center" src="https://i.imgur.com/WEFUkef.png" alt="Lucas Ângelo" height="50" width="50" /></a>
+  <a href="https://lucasangelo.com/links" target="_blank"><img align="center" src="https://i.imgur.com/WEFUkef.png" alt="Lucas Ângelo" height="50" width="50" /></a>
 </p>
 
 <br>
