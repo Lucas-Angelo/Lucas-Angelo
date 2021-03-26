@@ -21,3 +21,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-angelo&show_icons=true&locale=en&layout=compact&theme=dark" alt="Lucas Ângelo" />
 </p>
+
+<br>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=lucas-angelo&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-angelo"/></p>
