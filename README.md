@@ -14,7 +14,7 @@
     - 🔭 I’m currently working on ArcelorMittal Sistemas. <br>
   </p>
   <a href="https://lucasangelo.com/links" target="_blank">
-    <img style="border: 0.5px solid white; border-radius: 8px; padding: 8px;" src="https://i.imgur.com/33svEZT.png" width="128" height="28" target="_blank">
+    <img style="border: 0.5px solid #FFF; border-radius: 8px; padding: 8px;" src="https://i.imgur.com/33svEZT.png" width="128" height="28" target="_blank">
   </a>
 </main>
 
@@ -29,7 +29,3 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=lucas-angelo&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-angelo"/>
 </p>
-
-<div style="display: inline_block"><br>
-
-</div>
