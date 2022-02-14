@@ -13,9 +13,7 @@
     - ( 🇧🇷 ) Living in Belo Horizonte, Minas Gerais <br>
     - 🔭 I’m currently working on ArcelorMittal Sistemas. <br>
   </p>
-  <a href="https://lucasangelo.com/links" target="_blank">
-    <img style="margin: 10px" src="https://i.imgur.com/33svEZT.png" width="128" height="28" target="_blank">
-  </a>
+    <h1><a href="https://lucasangelo.com/" target="_blank">My personal website</a></h1>
 </main>
 
 <hr>
