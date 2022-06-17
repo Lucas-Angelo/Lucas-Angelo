@@ -11,7 +11,7 @@
   <img align="right" alt="MyOctocat" width="128" height="128" src="https://i.imgur.com/UoJbX3D.png">
   <p style="font-size: 1.2em;">
     - ( 🇧🇷 ) Living in Belo Horizonte, Minas Gerais <br>
-    - 🔭 I’m currently working on ArcelorMittal Sistemas. <br>
+    - 🔭 I’m currently working on AvenueCode. <br>
   </p>
     <h1><a href="https://lucasangelo.com/" target="_blank">My personal website</a></h1>
 </main>
