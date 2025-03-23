@@ -5,7 +5,7 @@
 ### Software Engineer | System Architect | Backend Specialist
 
 - 📍 Living in Belo Horizonte, Minas Gerais, Brazil
-- 💼 Software Engineer at [nexos.digital](https://nexos.digital/)
+- 💼 Software Engineer at [mercadolibre.com](https://mercadolibre.com/)
 - 📚 Postgraduate in Distributed Software Architecture at [PucMinas](https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Arquitetura-de-Software-Distribu%C3%ADdo-_Online.aspx?pageID=3814&moda=5&modaTipo=2&polo=40&curso=128&situ=1)
 - 🎓 Bachelor's Degree in Software Engineering at [PucMinas](https://www.pucminas.br/unidade/praca-da-liberdade/ensino/graduacao/Paginas/Engenharia-de-Software.aspx)
 
@@ -41,8 +41,10 @@ I am a software Engineer with 4 years of experience in web development, speciali
 
 ### 💼 Professional Experience
 
+- **Mercado Libre — Software Engineer**
+  - *Mar 2025 - Present*
 - **Nexos Digital — Software Engineer**
-  - *May 2024 - Present*
+  - *May 2024 - Mar 2025*
 - **FIEMG — Software Engineer**
   - *September 2023 - May 2024*
 - **Avenue Code — Software Engineer**
